@@ -1,16 +1,30 @@
-## Hi there 👋
+                                                              Hi 👋, I'm Md. Sanzid Mostofa
 
-<!--
-**sanzid943/sanzid943** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+Final-year Information Technology student at Jahangirnagar University with a strong interest in Cybersecurity, Ethical Hacking, and Web Development. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+* Languages: C, C++, Java, JavaScript, Python, SQL
+* Frontend: HTML, CSS, React
+* Backend: Node.js, Express.js
+* Database: MongoDB, MySQL
+* Tools: Git, GitHub, VS Code
+
+## Featured Projects
+
+ * Hall Seat Management System
+ * Student Expense Tracker
+ * Word Guessing Game (Java Swing)
+ * Online Examination Management System
+
+## Career Goal
+
+To become a skilled Cybersecurity Professional and Full-Stack Web Developer by building secure, scalable, and impactful software solutions.
+
+## Contact With Me
+
+ * LinkedIn: https://www.linkedin.com/in/sanzid-mostofa/
+ * Email: sanzidmostofa@gmail.com
+
