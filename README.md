@@ -1,4 +1,4 @@
-                                                             Hi, I'm Md. Sanzid Mostofa
+<h1 align="center">Hi, I'm Sanzid Mostofa</h1>
 
 
 
