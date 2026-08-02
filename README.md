@@ -1,6 +1,6 @@
-                                                              Hi 👋, I'm Md. Sanzid Mostofa
+                                                            # Hi, I'm Md. Sanzid Mostofa
 
-# About Me
+## About Me
 
 Final-year Information Technology student at Jahangirnagar University with a strong interest in Cybersecurity, Ethical Hacking, and Web Development. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
 
