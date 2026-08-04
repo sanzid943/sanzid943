@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Md. Sanzid Mostofa 👋</h1>
 
-<h3 align="center">🎓 Final-year IT Student | 🔐 Cybersecurity & Ethical Hacking Enthusiast | 💻 Full Stack Web Developer</h3>
+<h3 align="center"> Final-year IT Student |  Cybersecurity & Ethical Hacking Enthusiast |  Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-year+IT+Student+at+JU;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Full+Stack+Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -20,18 +20,18 @@
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 Final-year **Information Technology** student at **Jahangirnagar University** with a strong interest in **Cybersecurity**, **Ethical Hacking**, and **Web Development**. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
 
-- 🔭 Currently focused on: **Cybersecurity & Ethical Hacking**
-- 💼 Also working as: **Full Stack Web Developer**
-- 🌱 Always learning something new in security and web tech
-- 📫 Reach me: **sanzidmostofa@gmail.com**
+- Currently focused on: **Cybersecurity & Ethical Hacking**
+- Also working as: **Full Stack Web Developer**
+- Always learning something new in security and web tech
+- Reach me: **sanzidmostofa@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages**
 <p>
@@ -71,22 +71,22 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🏠 Hall Seat Management System</h4>
+      <h4> Hall Seat Management System</h4>
       A system to manage and streamline hall seat allocation, reducing manual effort and paperwork.
     </td>
     <td width="50%" valign="top">
-      <h4>💰 Student Expense Tracker</h4>
+      <h4> Student Expense Tracker</h4>
       A web app to help students track daily expenses and manage budgets effectively.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔤 Word Guessing Game</h4>
+      <h4> Word Guessing Game</h4>
       An interactive game built to test and improve vocabulary through fun word-guessing challenges.
     </td>
     <td width="50%" valign="top">
@@ -98,11 +98,11 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanzid943&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanzid943&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sanzid943&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -119,4 +119,4 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
   <img src="https://komarev.com/ghpvc/?username=sanzid943&style=flat-square&color=blue" alt="profile views" />
 </p>
 
-<h3 align="center">🌐 Let's Connect & Build Something Secure Together! 🚀</h3>
+<h3 align="center"> Let's Connect & Build Something Secure Together! </h3>
