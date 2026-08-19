@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Md. Sanzid Mostofa 👋</h1>
 
-<h3 align="center"> Final-year IT Student |  Cybersecurity & Ethical Hacking Enthusiast |  Full Stack Web Developer</h3>
+<h3 align="center"> Final-year IT Student |  Cybersecurity & Ethical Hacking Enthusiast |  Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-year+IT+Student+at+JU;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Full+Stack+Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 Final-year **Information Technology** student at **Jahangirnagar University** with a strong interest in **Cybersecurity**, **Ethical Hacking**, and **Web Development**. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
 
 - Currently focused on: **Cybersecurity & Ethical Hacking**
-- Also working as: **Full Stack Web Developer**
+- Also working as: **Web Developer**
 - Always learning something new in security and web tech
 - Reach me: **sanzidmostofa@gmail.com**
 
