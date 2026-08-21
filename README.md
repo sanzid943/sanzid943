@@ -80,7 +80,7 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
       A system to manage and streamline hall seat allocation, reducing manual effort and paperwork.
     </td>
     <td width="50%" valign="top">
-      <h4> Student Expense Tracker</h4>
+      <h4>Expense Tracker</h4>
       A web app to help students track daily expenses and manage budgets effectively.
     </td>
   </tr>
@@ -90,7 +90,7 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
       An interactive game built to test and improve vocabulary through fun word-guessing challenges.
     </td>
     <td width="50%" valign="top">
-      <h4>📝 Online Examination Management System</h4>
+      <h4> Online Examination Management System</h4>
       A platform for creating, conducting, and managing online exams with automated result processing.
     </td>
   </tr>
