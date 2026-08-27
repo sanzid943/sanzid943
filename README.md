@@ -101,12 +101,6 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanzid943&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
-
----
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanzid943&style=flat-square&color=blue" alt="profile views" />
 </p>
 
