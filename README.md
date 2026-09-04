@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Md. Sanzid Mostofa 👋</h1>
 
-<h3 align="center"> Final-year IT Student |  Cybersecurity & Ethical Hacking Enthusiast |  Web Developer</h3>
+<h3 align="center"> Final-year IT Student |  Cybersecurity & Ethical Hacking Enthusiast |  Aspiring Web Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Final-year+IT+Student+at+JU;Cybersecurity+%26+Ethical+Hacking+Enthusiast;Web+Developer;Always+Learning%2C+Always+Building" alt="Typing SVG" />
@@ -76,12 +76,12 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4> Hall Seat Management System</h4>
-      A system to manage and streamline hall seat allocation, reducing manual effort and paperwork.
+      <h4> Password Security Analyzer</h4>
+      A web-based tool that evaluates password strength and provides recommendations to help users create stronger and more secure passwords.
     </td>
     <td width="50%" valign="top">
-      <h4>Expense Tracker</h4>
-      A web app to help students track daily expenses and manage budgets effectively.
+      <h4> Movie Explorer</h4>
+      A web application that allows users to explore movies, search for titles, and view useful movie information in an interactive interface.
     </td>
   </tr>
   <tr>
@@ -90,8 +90,8 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
       An interactive game built to test and improve vocabulary through fun word-guessing challenges.
     </td>
     <td width="50%" valign="top">
-      <h4> Online Examination Management System</h4>
-      A platform for creating, conducting, and managing online exams with automated result processing.
+      <h4> Electricity Bill Calculator</h4>
+      A simple application that calculates electricity bills based on electricity consumption and applicable billing rates.
     </td>
   </tr>
 </table>
