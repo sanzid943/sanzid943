@@ -71,33 +71,6 @@ Final-year **Information Technology** student at **Jahangirnagar University** wi
 
 ---
 
-### Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> Password Security Analyzer</h4>
-      A web-based tool that evaluates password strength and provides recommendations to help users create stronger and more secure passwords.
-    </td>
-    <td width="50%" valign="top">
-      <h4> Movie Explorer</h4>
-      A web application that allows users to explore movies, search for titles, and view useful movie information in an interactive interface.
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4> Word Guessing Game</h4>
-      An interactive game built to test and improve vocabulary through fun word-guessing challenges.
-    </td>
-    <td width="50%" valign="top">
-      <h4> Electricity Bill Calculator</h4>
-      A simple application that calculates electricity bills based on electricity consumption and applicable billing rates.
-    </td>
-  </tr>
-</table>
-
----
-
 ### GitHub Stats
 
 <p align="center">
