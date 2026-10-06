@@ -31,7 +31,7 @@ Final-year undergraduate **Information Technology** student at **Jahangirnagar U
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages:**
 C, C++, Java, Python, C#, JavaScript, SQL
