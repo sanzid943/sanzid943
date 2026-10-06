@@ -22,7 +22,7 @@
 
 ### About Me
 
-Final-year undergraduate **Information Technology** student at **Jahangirnagar University** with a strong interest in **Cybersecurity**, **Ethical Hacking**, and **Web Development**. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
+Final-year undergraduate **Information Technology** student at **Jahangirnagar University** with a strong interest in **Web Development**, **Cybersecurity**, and **Ethical Hacking**. I enjoy building secure, user-friendly applications and continuously improving my technical skills through academic and personal projects.
 
 - Currently focused on: **Web Developer**
 - Also working as: **Cybersecurity & Ethical Hacking**
